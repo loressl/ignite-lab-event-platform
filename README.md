@@ -8,4 +8,22 @@
   - [Graphcms](https://graphcms.com/)
   - [Vite](https://vitejs.dev/)
   
+# Instalação
+```bash
+yarn install 
+
+ou
+
+yarn
+```
+# ENV LOCAL
+
+  - VITE_API_URL: url da api do graphcms
+  - VITE_API_ACCESS_TOKEN: token da api
+
+# Executar projeto
+```bash
+yarn dev
+```
+  
 Acesse em: http://ignite-lab-event-platform-henna.vercel.app/
